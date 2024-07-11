@@ -32,6 +32,8 @@ Este repositório documenta meu progresso e aprendizado no módulo que abrange u
 - Estou ansioso para aperfeiçoar o perfil no LinkedIn para que seja atraente para potenciais empregadores, reunindo informações relevantes sobre minha educação e experiência.
 - É importante para mim entender o que significa ética em tecnologia e por que é um aspecto crucial no desenvolvimento e uso responsável da tecnologia.
 - Aprender e aplicar os comandos avançados do Git para gerenciamento de projetos, como branch.
+- A importância dos testes automatizados na programação e quais são as melhores práticas para escrever testes eficazes.
+- Mais detalhes sobre estratégias de teste e casos de uso específicos como integrar testes automatizados em projetos reais.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
@@ -41,6 +43,10 @@ Este repositório documenta meu progresso e aprendizado no módulo que abrange u
 - Dominei os comandos básicos do Git, permitindo-me versionar e colaborar em projetos de software.
 - Aprofundei meu conhecimento em métodos de strings e arrays, tornando-me mais eficiente na manipulação de dados.
 - Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+- Aprendi sobre os tipos utilitários e a manipulação deles em código.
+- Me aprofundei sobre métodos de array, sobre funções trigonométricas no círculo unitário, conversão entre graus e radianos, propriedades e identidades trigonométricas, e como aplicar esses conceitos na resolução de problemas práticos.
+- A utilizar biblitecas como o Jest para escrever e automatizar os testes.
+- Que os testes automatizados são cruciais para verificar se nosso código funciona corretamente, aumentando a confiabilidade do código e reduzindo bugs.
 
 
 ## Resumo do aprendizado desse módulo:
